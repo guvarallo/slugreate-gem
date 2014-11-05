@@ -1,10 +1,11 @@
 # Slugreate
 
-Create slugs for your application in a very robust and simple way.
+Create slugs for your Rails application in a very robust and simple way.
 
-* It uses the parameterize method
+* It uses Rails' [parameterize method](http://api.rubyonrails.org/classes/ActiveSupport/Inflector.html#method-i-parameterize)
 
 * It prevents URLs with the same name by appending numbers at the end.
+
 
 ## Installation
 
@@ -31,6 +32,8 @@ And add the method below on the model class, changing the 'ATTRIBUTE' name to wh
 ```
 slugable_column :ATTRIBUTE
 ```
+
+
 
 **Created by [Gustavo Varallo.](http://varallo.me)**
 
