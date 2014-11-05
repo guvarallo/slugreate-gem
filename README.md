@@ -2,7 +2,7 @@
 
 Create slugs for your Rails application in a very robust and simple way.
 
-* It uses Rails' [parameterize method](http://api.rubyonrails.org/classes/ActiveSupport/Inflector.html#method-i-parameterize)
+* It uses Rails' [parameterize method.](http://api.rubyonrails.org/classes/ActiveSupport/Inflector.html#method-i-parameterize)
 
 * It prevents URLs with the same name by appending numbers at the end.
 
@@ -35,5 +35,5 @@ slugable_column :ATTRIBUTE
 
 
 
-**Created by [Gustavo Varallo.](http://varallo.me)**
+-> **Created by [Gustavo Varallo.](http://varallo.me)** <-
 
