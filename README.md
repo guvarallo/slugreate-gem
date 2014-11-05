@@ -34,6 +34,8 @@ slugable_column :ATTRIBUTE
 ```
 
 
+<p align="center" text-weight="bold">
+  Created by [Gustavo Varallo.](http://varallo.me)
+</p>
 
--> **Created by [Gustavo Varallo.](http://varallo.me)** <-
 
